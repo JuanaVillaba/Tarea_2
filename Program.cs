@@ -4,7 +4,6 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Holaaaaaaaa");
             Auto auto = new Auto();
             auto.Arrancar();
             Moto moto = new Moto();
